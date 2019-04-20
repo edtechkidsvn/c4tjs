@@ -32,6 +32,7 @@
 _hint_: [Style Property Element](https://www.w3schools.com/jsref/prop_html_style.asp)
 <br>
 ![Trước Khi Bấm](assets/part2/exercise2_1.png)
+<br>
 ![Trước Khi Bấm](assets/part2/exercise2_2.png)
 
 3. **Click vào button sẽ đổi màu nền của box:**
@@ -40,4 +41,5 @@ _hint_: [Style Property Element](https://www.w3schools.com/jsref/prop_html_style
 * Khi click vào button sẽ đổi màu background của box như hình.
 <br>
 ![Trước Khi Bấm](assets/part2/exercise3_1.png)
+<br>
 ![Trước Khi Bấm](assets/part2/exercise3_2.png)

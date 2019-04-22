@@ -31,9 +31,9 @@ _hint_: Sử dụng clientHeight / clientWidth
 * Tạo 1 box bên trong có đoạn nội dung: `Đây là chữ chưa qua chỉnh sửa.`
 * Tạo 1 button có label là `Click here to change color and text`
 * Khi click vào button sẽ đổi màu và nội dùng của đoạn chữ thành `Tadaaa. Chữ sau khi được thẩm mỹ!!`
-<br>
+
 _hint_: [Style Property Element](https://www.w3schools.com/jsref/prop_html_style.asp)
-<br>
+
 ![Trước Khi Bấm](assets/part2/exercise2_1.png)
 ![Trước Khi Bấm](assets/part2/exercise2_2.png)
 
@@ -41,7 +41,7 @@ _hint_: [Style Property Element](https://www.w3schools.com/jsref/prop_html_style
 * Tạo 1 box width, height, background-color bất kì.
 * Tạo 1 button có label là `Click here to change background color box`.
 * Khi click vào button sẽ đổi màu background của box như hình.
-<br>
+
 ![Trước Khi Bấm](assets/part2/exercise3_1.png)
 ![Trước Khi Bấm](assets/part2/exercise3_2.png)
 
@@ -49,9 +49,9 @@ _hint_: [Style Property Element](https://www.w3schools.com/jsref/prop_html_style
 * Tạo 1 box width, height, background-color bất kì.
 * Tạo 1 button có label là `Click here to hide box`.
 * Khi click vào button box sẽ bị ẩn như hình.
-<br>
+
 ![Trước Khi Bấm](assets/part2/exercise4_1.png)
-<br>
+
 ![Trước Khi Bấm](assets/part2/exercise4_2.png)
 
 ## Parent / Children node elements:
@@ -59,9 +59,9 @@ _hint_: [Style Property Element](https://www.w3schools.com/jsref/prop_html_style
 * Tạo 1 box cha với width, height, backgroundcolor, padding tuỳ ý.
 * Tạo 1 button có label là `Click here to add new Element`.
 * Khi click vào button sẽ add thêm 1 box con có width: 50px, height: 50px, backgroundcolor: red vào box cha.
-<br>
+
 ![Trước Khi Bấm](assets/part2/exercise5_1.png)
-<br>
+
 ![Trước Khi Bấm](assets/part2/exercise5_2.png)
 
 2. **Click vào button xoá box cuối trong box cha:**
@@ -69,7 +69,7 @@ _hint_: [Style Property Element](https://www.w3schools.com/jsref/prop_html_style
 * Tạo 1 box con với width: 50px, height: 50px, backgroundColor: red trong box cha
 * Tạo 1 button có label là `Click here to remove last Element`.
 * Khi click vào button sẽ xoá box con.
-<br>
+
 ![Trước Khi Bấm](assets/part2/exercise6_1.png)
-<br>
+
 ![Trước Khi Bấm](assets/part2/exercise6_2.png)

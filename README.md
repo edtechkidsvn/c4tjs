@@ -18,6 +18,7 @@ _hint_: Sử dụng clientHeight / clientWidth
 * Tạo > 2 box có width: 150px, height: 150px, backgroundcolor bất kì và có chung 1 `class="box"`
 * Đánh số thứ tự cho từng box
 * Dùng `getElementsByClassName` lấy và in ra các thẻ có `class="box"`
+
 ![Kết quả](assets/part1/exercise3.png)
 
 

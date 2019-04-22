@@ -3,6 +3,7 @@
 1. **Hiển thị chiều dài, chiều rộng của box:**
 * Tạo 1 box có width: 300px, height: 200px và backgroundcolor bất kì
 * Viết 1 đoạn code hiển thị ra width, height của box như hình.
+_hint_: Sử dụng clientHeight / clientWidth
 ![Kết quả](assets/part1/exercise1.png)
 
 2. **Hiển thị nội dung text của box:**
@@ -32,7 +33,6 @@
 _hint_: [Style Property Element](https://www.w3schools.com/jsref/prop_html_style.asp)
 <br>
 ![Trước Khi Bấm](assets/part2/exercise2_1.png)
-<br>
 ![Trước Khi Bấm](assets/part2/exercise2_2.png)
 
 3. **Click vào button sẽ đổi màu nền của box:**
@@ -41,5 +41,33 @@ _hint_: [Style Property Element](https://www.w3schools.com/jsref/prop_html_style
 * Khi click vào button sẽ đổi màu background của box như hình.
 <br>
 ![Trước Khi Bấm](assets/part2/exercise3_1.png)
-<br>
 ![Trước Khi Bấm](assets/part2/exercise3_2.png)
+
+4. **Click vào button sẽ ẩn box:**
+* Tạo 1 box width, height, background-color bất kì.
+* Tạo 1 button có label là `Click here to hide box`.
+* Khi click vào button box sẽ bị ẩn như hình.
+<br>
+![Trước Khi Bấm](assets/part2/exercise4_1.png)
+<br>
+![Trước Khi Bấm](assets/part2/exercise4_2.png)
+
+## Parent / Children node elements:
+1. **Click vào button add thêm box:**
+* Tạo 1 box cha với width, height, backgroundcolor, padding tuỳ ý.
+* Tạo 1 button có label là `Click here to add new Element`.
+* Khi click vào button sẽ add thêm 1 box con có width: 50px, height: 50px, backgroundcolor: red vào box cha.
+<br>
+![Trước Khi Bấm](assets/part2/exercise5_1.png)
+<br>
+![Trước Khi Bấm](assets/part2/exercise5_2.png)
+
+2. **Click vào button xoá box cuối trong box cha:**
+* Tạo 1 box cha với width, height, backgroundcolor, padding tuỳ ý.
+* Tạo 1 box con với width: 50px, height: 50px, backgroundColor: red trong box cha
+* Tạo 1 button có label là `Click here to remove last Element`.
+* Khi click vào button sẽ xoá box con.
+<br>
+![Trước Khi Bấm](assets/part2/exercise6_1.png)
+<br>
+![Trước Khi Bấm](assets/part2/exercise6_2.png)

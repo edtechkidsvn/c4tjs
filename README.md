@@ -12,6 +12,7 @@ _hint_: Sử dụng clientHeight / clientWidth
 * Tạo 1 box có width, height, backgroundcolor bất kì.
 * Tạo 1 đoạn có nội dung là: `Đây là nội dung bằng chữ được đánh bằng máy tính` vào box
 * Viết 1 đoạn code hiển thị ra nội dung của box như hình
+
 ![Kết quả](assets/part1/exercise2.png)
 
 3. **Hiển thị các box chung 1 class:**

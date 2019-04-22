@@ -3,7 +3,9 @@
 1. **Hiển thị chiều dài, chiều rộng của box:**
 * Tạo 1 box có width: 300px, height: 200px và backgroundcolor bất kì
 * Viết 1 đoạn code hiển thị ra width, height của box như hình.
+
 _hint_: Sử dụng clientHeight / clientWidth
+
 ![Kết quả](assets/part1/exercise1.png)
 
 2. **Hiển thị nội dung text của box:**
